@@ -25,11 +25,22 @@ Contents:
 
 ##  How to Run
 
-1. Download files from the folder above
+1. Download files from the folder above  
 2. Open terminal or VSCode, then install dependencies:
 
 ```bash
 pip install flask pandas scikit-learn
+```
 
-3.in terminal type python app.py
+3. In the terminal, type:
+
+```bash
+python app.py
+```
+
+4. Open your browser and go to:
+
+```
+http://127.0.0.1:5000
+```
 
